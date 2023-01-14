@@ -1,5 +1,7 @@
 # CHATGPT CLONE
 
+New - Design change, similar to whatsapp
+
 A chatGPT clone made with Typescript 
 
 Live Demo here <a href="https://chat-gtp-clone.vercel.app/" target="_blank">Chat Bot Demo</a>
