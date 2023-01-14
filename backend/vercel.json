@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "./frontend/index.html",
+      "src": "/frontend/index.html",
       "use": "@vercel/static"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "src": "/api/(.*)",
-      "dest": "./backend/src/server.ts"
+      "dest": "/backend/src/server.ts"
     }
   ]
 }
